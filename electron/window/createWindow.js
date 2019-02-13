@@ -69,6 +69,8 @@ function createWindow(key, options = {}) {
   win.loadURL(url)
   win.once('ready-to-show', () => {
     win.show()
+    console.clear();
+    console.log('test')
     // win.webContents.openDevTools()
   })
 
