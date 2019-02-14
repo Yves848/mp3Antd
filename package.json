@@ -23,6 +23,8 @@
   "homepage": "https://github.com/lanten/electron-antd#readme",
   "dependencies": {
     "antd": "^3.12.1",
+    "node-id3": "^0.1.7",
+    "node-id3v2.4": "0.0.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.3.1"
